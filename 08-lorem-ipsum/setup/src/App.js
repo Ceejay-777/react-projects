@@ -8,7 +8,7 @@ function App() {
   const handleSubmit = (event) => {
     event.preventDefault()
     let amount = parseInt(count)
-    if (count <= 0) {
+    if (count <= 0) { 
       amount = 1
     }
     if (count > 8) {
