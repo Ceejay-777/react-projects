@@ -154,7 +154,7 @@ Color Generator
 
 input {
   border-color: 1px solid var(--clr-primary-7);
-  margin: 0  1rem;
+  margin: 0 1rem;
   padding: 0.5rem 1rem;
   font-size: 1.2rem;
   border-top-left-radius: var(--radius);
